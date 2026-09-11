@@ -169,8 +169,7 @@ Se deben revisar valores que puedan afectar la interpretación de los indicadore
 Los valores atípicos no deben eliminarse únicamente por ser diferentes; primero debe determinarse si representan una operación válida o un error en los datos.
 
 ## Modelo de datos
-
-<img width="758" height="426" alt="image" src="https://github.com/user-attachments/assets/dcb134d2-350a-474c-83f7-1c98e3cd4918" />
+<img width="1162" height="493" alt="Captura de pantalla 2026-09-11 115551" src="https://github.com/user-attachments/assets/43cfd2b8-7533-42c5-84bf-dc7767118545" />
 
 Se utilizó un modelo basado en una tabla principal de hechos:
 
@@ -257,7 +256,7 @@ Las medidas utilizadas en el dashboard incluyen cálculos para:
 
 El dashboard permite integrar información de ventas, costos, descuentos y utilidad en una sola vista interactiva.
 
-![Uploading image.png…]()
+<img width="758" height="426" alt="Captura de pantalla 2026-09-11 115718" src="https://github.com/user-attachments/assets/4c51e382-557f-40d2-97ca-5f0bddfeb528" />
 
 La combinación de indicadores, filtros, dimensiones comerciales y análisis temporal facilita la identificación de tendencias y diferencias en el desempeño de las ventas.
 
