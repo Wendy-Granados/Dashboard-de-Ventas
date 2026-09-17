@@ -187,9 +187,11 @@ La tabla Ventas concentra las transacciones y las tablas auxiliares proporcionan
 
 ## Medidas DAX
 -Comisión = [Facturación]*0.05
+
 Explicación: Calcula la comisión aplicando una tasa del 5% sobre la facturación obtenida mediante la medida [Facturación].
 
 -Facturación = SUM(RegistroVentas[Ventas totales]) 
+
 Explicación: Calcula la facturación total sumando los valores de Ventas totales de la tabla RegistroVentas. El resultado se actualiza de acuerdo con los filtros aplicados en el dashboard.
 
 ## Indicadores principales
