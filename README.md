@@ -185,6 +185,10 @@ Relacionada con las siguientes tablas dimensionales:
 
 La tabla Ventas concentra las transacciones y las tablas auxiliares proporcionan información descriptiva para realizar análisis por diferentes dimensiones.
 
+## Medidas DAX
+-Comisión = [Facturación]*0.05
+-Facturación = SUM(RegistroVentas[Ventas totales]) 
+
 ## Indicadores principales
 
 El dashboard contiene tarjetas para visualizar:
